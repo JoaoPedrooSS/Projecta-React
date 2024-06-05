@@ -2,10 +2,6 @@
 
 Este é um sistema de gerenciamento de projetos desenvolvido em JavaScript com a biblioteca React, conectado a um JSON server.
 
-## Acesso
-
-Para acessar a aplicação web, clique [aqui](https://control-projects.netlify.app/).
-
 ## Conteudos aplicados
 
 ### React
