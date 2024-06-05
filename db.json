@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": "7ce6",
+      "name": "New Project",
+      "budget": "30000",
+      "category": {
+        "id": "1",
+        "name": "Infrastructure"
+      },
+      "cost": 4000,
+      "services": [
+        {
+          "name": "New hire",
+          "cost": "1500",
+          "description": "hire a new employee",
+          "id": "836232a1-186c-44ac-93e2-4b3e9cf111a6"
+        },
+        {
+          "name": "New equipment",
+          "cost": "2500",
+          "description": "Buy new equipment",
+          "id": "a4148039-93a5-4b5f-bd37-b4ff540e2868"
+        }
+      ]
+    },
+    {
+      "id": "4a30",
+      "name": "Web application",
+      "budget": "12000",
+      "category": {
+        "id": "2",
+        "name": "Development"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d56b",
+      "name": "Teste",
+      "budget": "6000",
+      "category": {
+        "id": "4",
+        "name": "Planning"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "2",
+      "name": "Development"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planning"
+    }
+  ]
+}
