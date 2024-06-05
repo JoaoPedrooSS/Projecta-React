@@ -30,16 +30,16 @@ Para acessar a aplicação web, clique [aqui](https://control-projects.netlify.a
 ![Home](/public/print-readme/Home.png)
 
 ### Novo Projeto
-![NovoProjeto](/src/img/readme-newproject.png)
+![NovoProjeto](/public/print-readme/NewProject.png)
 
 ### Projetos
-![Projetos](/src//img/readme-projects.png)
+![Projetos](/public/print-readme/MyProjects.png)
 
 ### Projeto
-![Projeto](/src/img/readme-project.png)
+![Projeto](/public/print-readme/Project.png)
 
 ### Edição do projeto
-![EditProjeto](/src/img/readme-edit.png)
+![EditProjeto](/public/print-readme/EditProject.png)
 
 ### Adicionando serviço
-![AddService](/src/img/readme-newservice.png)
+![AddService](/public/print-readme/AddService.png)
